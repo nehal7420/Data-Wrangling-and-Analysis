@@ -3,7 +3,6 @@ Udacity Data Analyst December 2017 - May 2018.
 
 Project 7: Wrangle and Analyze Data - WeRateDogs twitter account
 
-[Click to preview report](https://cdn.rawgit.com/latinacode/Wrangle-and-Analyze-Data/f3a9b664/act_report.pdf)
 
 # Project Overview
 ## Introduction
